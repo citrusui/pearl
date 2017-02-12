@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 post_install() {
     link git "$PEARL_PKGDIR/gitconfig"
 }
